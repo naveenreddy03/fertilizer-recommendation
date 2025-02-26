@@ -71,3 +71,9 @@ Developed as part of an AI project on Fertilizer Recommendation.
 ## License
 This project is for educational purposes. Feel free to use and modify as needed.
 
+![Screenshot 2025-02-26 211624](https://github.com/user-attachments/assets/67a541e0-8da3-4ebb-830c-395cfd3ebfd4)
+![Screenshot 2025-02-26 211720](https://github.com/user-attachments/assets/d6a7e194-9bca-4145-891d-777b81e34bb6)
+
+
+
+
